@@ -5,6 +5,9 @@
   "authors": [
     "Johannes Schickling <schickling.j@gmail.com>"
   ],
+  "main": [
+      "./src/calculate-size.js"
+  ],
   "description": "Calculate the pixel size of a string",
   "keywords": [
     "font",
